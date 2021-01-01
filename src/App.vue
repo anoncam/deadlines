@@ -19,7 +19,7 @@
 
 				</p>
 				<div>
-					<a href="https://github.com/oneminch/deadlines" target="_blank" rel="noopener">
+					<a href="https://github.com/anoncam/deadlines" target="_blank" rel="noopener">
 						<span>GitHub</span>
 						<i class="gg-link"></i>
 					</a>
