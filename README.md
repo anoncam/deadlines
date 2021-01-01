@@ -16,3 +16,6 @@ It also has dark mode 🌓.
 #### Compiles and hot-reloads for development: `npm run serve`
 #### Compiles and minifies for production: `npm run build`
 #### Lints and fixes files: `npm run lint`
+
+
+I plan on doing much more with this
